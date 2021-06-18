@@ -18,6 +18,6 @@ Open IntelliJ
 
 • Convert the project to a Maven project 
 
-• Open the folder test/java/automation/TestFocus and Execute the the Class TestFocus 
+• Open the folder test/java/automation/TestFocus and Execute the Class TestFocus 
 
 
